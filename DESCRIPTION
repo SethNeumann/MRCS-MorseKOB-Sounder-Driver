@@ -1,11 +1,6 @@
-First line: A short description of the project, used as a subtitle ot tagline
+The MorseKOB Sounder Driver is a simple circuit board to drive a real telegraph sounder from the popular freeware American (“Railroad”) Morse code practice utility: MorseKOB.
+MorseKOB may be obtained at https://sites.google.com/site/morsekob/home?authuser=0. 
+I developed this board from a sample circuit on the MorseKOB site at https://sites.google.com/site/morsekob/morsekob25/interface?authuser=0.
+The MorseKOB Sounder Driver is a compact board, about 2” x 2” that provides a single place to make all your connections: RS232 Dongle, Power and a Sounder. 
 
-Remaining lines: a verbose changelog of what makes this "git version" different from the last.
-Use this space (in Markdown format) to describe the context and details of the changes.
-This section should be 5 to 20 lines of interesting detail; each version tab in the project will 
-display this text to help the reader understand why this version is differnet...
-
-The published project on the SPCoast.github.io website will
-include the relevant git commit messages as a terse, high level
-changelog, so don't replicate those messages here.
 
